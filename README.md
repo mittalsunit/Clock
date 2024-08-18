@@ -1,1 +1,1 @@
-# Clock
+I created a digital clock that displays the time in both analog and digital formats. The project was built using HTML, CSS, and JavaScript, and it features a dynamic and interactive interface that accurately reflects the current time. The clock's design combines classic analog aesthetics with modern digital clarity, providing a visually appealing and informative timekeeping experience.
